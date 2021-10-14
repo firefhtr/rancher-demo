@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  rancher-demo-helm:
+  - apiVersion: v2
+    appVersion: 0.1.0
+    created: "2021-10-14T16:21:59.929878777Z"
+    description: A Helm chart for Kubernetes
+    digest: 5dee660c2d7673c70b8def85265135a880f6490dd7a76a22da2e1567f3a05abe
+    name: rancher-demo-helm
+    urls:
+    - https://github.com/firefhtr/rancher-demo/releases/download/rancher-demo-helm-0.1.0/rancher-demo-helm-0.1.0.tgz
+    version: 0.1.0
+generated: "2021-10-14T16:21:59.789101065Z"
